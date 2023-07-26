@@ -18,7 +18,7 @@ ul{
     background-position: center bottom;
     display: flex;
     position: relative;
-    background-image: url(../imgaes/main-bg.jpg);
+    background-image: url(gambar/main-bg.jpg);
     flex-direction: column;
 }
 #main::after{
